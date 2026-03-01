@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Strip That Down",
+  "base_artist": "Liam Payne",
+  "createdAt": "2026-03-01T05:01:34.941848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/01_Strip_That_Down_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne, Quavo",
+      "has_synced": true,
+      "path": "select/02_Strip_That_Down_Liam_Payne,_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Strip That Down - Acoustic",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/03_Strip_That_Down_-_Acoustic_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strip That Down (Acoustic)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/04_Strip_That_Down_(Acoustic)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strip That Down (Nevada Remix)",
+      "artist": "Liam Payne feat. Quavo",
+      "has_synced": true,
+      "path": "select/05_Strip_That_Down_(Nevada_Remix)_Liam_Payne_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strip That Down (feat. Quavo)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/06_Strip_That_Down_(feat._Quavo)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne feat. Quavo",
+      "has_synced": true,
+      "path": "select/07_Strip_That_Down_Liam_Payne_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strip That Down (Nevada Remix)",
+      "artist": "Liam Payne feat. Quavo",
+      "has_synced": true,
+      "path": "select/08_Strip_That_Down_(Nevada_Remix)_Liam_Payne_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "strip that down",
+      "artist": "LIAM PAYNE FEAT. QUAVO",
+      "has_synced": true,
+      "path": "select/09_strip_that_down_LIAM_PAYNE_FEAT._QUAVO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne f./Quavo",
+      "has_synced": true,
+      "path": "select/10_Strip_That_Down_Liam_Payne_f._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strip That Down (feat. Quavo)",
+      "artist": "Liam Payne feat. Quavo",
+      "has_synced": true,
+      "path": "select/11_Strip_That_Down_(feat._Quavo)_Liam_Payne_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strip That Down (feat. Quavo)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/12_Strip_That_Down_(feat._Quavo)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Strip That Down (feat. Quavo) [Nevada Remix]",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/13_Strip_That_Down_(feat._Quavo)_[Nevada_Remix]_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Strip That Down (Nevada remix)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/14_Strip_That_Down_(Nevada_remix)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/15_Strip_That_Down_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strip That Down (Nevada remix)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/16_Strip_That_Down_(Nevada_remix)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Strip That Down (acoustic)",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/17_Strip_That_Down_(acoustic)_Liam_Payne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Strip That Down",
+      "artist": "Liam Payne",
+      "has_synced": true,
+      "path": "select/18_Strip_That_Down_Liam_Payne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Strip That Down",
+      "artist": "Liam Payne",
+      "has_synced": false,
+      "path": "select/pl_01_Strip_That_Down_Liam_Payne.txt"
+    }
+  ]
+}
